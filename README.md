@@ -30,6 +30,7 @@
 ### Frontend
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Angular](https://img.shields.io/badge/angular-%230d47a1?style=for-the-badge&logo=angular&logoColor=%23dd0031)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NextJs](https://img.shields.io/badge/nextjs-%23eeeeee?style=for-the-badge&logo=next.js&logoColor=%23000000)
