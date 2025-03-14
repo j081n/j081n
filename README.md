@@ -11,7 +11,7 @@
   <a href="https://leetcode.com/j0131n">
     <img src="https://img.shields.io/badge/LeetCode%20Newbie-black?style=for-the-badge&logo=leetCode&logoColor=orange" alt="Leet Code" />
   </a>
-  <a href="https://github.com/j0131n">
+  <a href="https://github.com/j081n">
     <img src="https://komarev.com/ghpvc/?username=j0131n&color=blueviolet&style=for-the-badge" alt="Github Profile Views" />
   </a>
 </div>
