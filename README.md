@@ -24,13 +24,12 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![ExpressJs](https://img.shields.io/badge/express-%23eeeeee?style=for-the-badge&logo=express&logoColor=%23010101)
-![Ruby](https://img.shields.io/badge/ruby-%23cc342d?style=for-the-badge&logo=ruby&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/ruby_on_rails-%23d30001?style=for-the-badge&logo=ruby%20on%20rails&logoColor=white)
 
 ### Frontend
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%230d47a1?style=for-the-badge&logo=angular&logoColor=%23dd0031)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NextJs](https://img.shields.io/badge/nextjs-%23eeeeee?style=for-the-badge&logo=next.js&logoColor=%23000000)
